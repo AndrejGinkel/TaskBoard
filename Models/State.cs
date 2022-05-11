@@ -1,5 +1,5 @@
-﻿namespace MySecondApp
-{
+﻿namespace ToDoList.Models
+{ 
     public enum State
     {
         ToDo,
